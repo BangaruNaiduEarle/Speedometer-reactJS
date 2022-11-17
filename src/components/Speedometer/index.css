@@ -1,0 +1,72 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: 500;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+.heading2 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  font-style: normal;
+  margin-top: 20px;
+}
+.cluster-Image {
+  width: 40vw;
+  height: 30vh;
+}
+.description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+.button {
+  border-radius: 8px;
+  padding: 6px;
+  margin-right: 16px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 100px;
+  height: 40px;
+}
+
+.button1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 6px;
+  margin-right: 16px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 100px;
+  height: 40px;
+}
+
+.button2 {
+  background-color: transparent;
+  color: #94a3b8;
+  border-color: #94a3b8;
+  border-width: 2px;
+  border-radius: 8px;
+  padding: 6px;
+  margin-right: 16px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 100px;
+  height: 40px;
+}
